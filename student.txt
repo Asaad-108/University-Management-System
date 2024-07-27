@@ -1,0 +1,21 @@
+2
+Muhammad
+Asaad
+17/10/2003
+Pak Arab,Lahore
+L1F22BSCS0568
+10/09/2022
+OOP
+2022
+3.6
+50000
+Hassan
+Javed
+19/06/2004
+Walton,Lahore
+L1F22BSCS0569
+10/09/2022
+OOP
+2022
+3.23
+75000

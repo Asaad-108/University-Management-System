@@ -1,0 +1,218 @@
+University of Central Punjab
+Avenue 1, Khayaban-e-Jinnah Road,Lahore
+2002
+info@ucp.edu.pk
+ucp.edu.pk
+09097809
+3
+Bachelor's Degree
+4
+2
+Muhammad
+Asaad
+17 10 2003
+Pak Arab,Lahore
+L1F22BSCS0568
+10/09/2022
+OOP
+2022
+3.6
+50000
+Hassan
+Javed
+19 06 2004
+Walton,Lahore
+L1F22BSCS0569
+10 09 2022
+OOP
+2022
+3.23
+75000
+2
+Ahamd
+Shahbar
+15 06 1960
+Johar town, Lahore
+phd. in Computer Science
+Dean
+01/05/2005
+500000
+101
+Rehan 
+Saleem
+10 04 1970
+TownShip, Lahore
+phd. in Physices
+Lecturer
+01/05/2005
+100000
+102
+4
+Introduction to Computing
+3
+CSC101
+Fundamentals of computer science and programming languages.
+Calculus I
+4
+MAT201
+Basics of calculus, limits, derivatives, and integrals.
+Marketing Principles
+3
+MKT101
+Introduction to marketing strategies and principles.
+Database Management Systems
+3
+CSC203
+Database design, implementation, and management.
+Master's Degree
+2
+2
+John
+Doe
+1995 05 15
+123 Main Street, Cityville, State, Zip Code
+ABC12345
+2022-09-01
+Computer Science
+2022
+3.75
+5000
+Jane
+Smith
+1996 08 25
+456 Oak Avenue, Townsville, State, Zip Code
+XYZ67890
+2022-08-15
+Electrical Engineering
+2022
+3.90
+5500
+3
+John
+Doe
+1980 05 15
+123 Main Street, Cityville, State, Zip Code
+Ph.D. in Physics
+Professor of Physics
+2010-09-01
+70000
+108
+Jane
+Smith
+1975 08 22
+456 Oak Avenue, Townsville, State, Zip Code
+M.A. in Literature
+Associate Professor of English
+2008-03-15
+65000
+107
+Michael
+Johnson
+1982 12 10
+789 Pine Road, Villagetown, State, Zip Code
+B.Sc. in Chemistry
+Assistant Professor of Chemistry
+2015-06-20
+60000
+103
+3
+Linear Algebra
+4
+MAT301
+Vectors, matrices, and linear transformations.
+Artificial Intelligence Fundamentals
+3
+CSC305
+Basics of AI, machine learning, and algorithms.
+Financial Accounting
+3
+ACC201
+Principles and practices of financial accounting.
+Doctoral Degree
+5
+4
+Alice
+Johnson
+1997 03 10
+789 Pine Lane, Villagetown, State, Zip Code
+PQR54321
+2022-10-05
+Mechanical Engineering
+2022
+3.60
+4800
+Bob
+Williams
+1994 12 03
+101 Cedar Road, Hamletville, State, Zip Code
+LMN98765
+2022-07-20
+Physics
+2022
+3.80
+5200
+Eva
+Miller
+1998 06 18
+202 Birch Street, Countryside, State, Zip Code
+JKL13579
+2022-11-02
+Chemistry
+2022
+3.95
+5800
+Chris
+Taylor
+1999 09 30
+303 Maple Drive, Riverside, State, Zip Code
+QRS24680
+2022-06-12
+Mathematics
+2022
+3.70
+4900
+3
+Emily
+Williams
+1978 04 03
+101 Cedar Lane, Hamletville, State, Zip Code
+M.Ed. in Education
+Senior Lecturer in Education
+2005-11-07
+55000
+104
+David
+Miller
+1985 09 28
+202 Elm Street, Boroughville, State, Zip Code
+Ph.D. in Computer Science
+Associate Professor of Computer Science
+2012-04-12
+75000
+105
+Sarah
+Brown
+1987 03 17
+303 Maple Drive, Villageburg, State, Zip Code
+M.A. in History
+Lecturer in History
+2018-08-05
+50000
+106
+4
+Physics for Engineers
+4
+PHY202
+Mechanics, thermodynamics, and electromagnetism.
+Creative Writing Workshop
+3
+ENG303
+Techniques and styles in creative writing.
+Social Work Ethics
+3
+SWK201
+Ethical considerations in social work practice.
+Data Structures and Algorithms
+4
+CSC302
+Design and analysis of algorithms, data structures.
