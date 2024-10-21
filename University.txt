@@ -7,13 +7,13 @@ ucp.edu.pk
 3
 Bachelor's Degree
 4
-2
+21
 Muhammad
 Asaad
 17 10 2003
 Pak Arab,Lahore
 L1F22BSCS0568
-10/09/2022
+10 09 2022
 OOP
 2022
 3.6
@@ -21,32 +21,384 @@ OOP
 Hassan
 Javed
 19 06 2004
-Walton,Lahore
+Walton, Lahore
 L1F22BSCS0569
 10 09 2022
 OOP
 2022
 3.23
+60000
+Ali
+Khan
+12 04 2003
+Model Town, Lahore
+L1F22BSCS0123
+11 09 2022
+OOP
+2022
+3.50
+60000
+Sara
+Ahmad
+08 05 2003
+DHA, Lahore
+L1F22BSCS0456
+09 09 2022
+OOP
+2022
+3.75
+60000
+Usman
+Ali
+15 01 2002
+Gulberg, Lahore
+L1F22BSCS0789
+12 09 2022
+OOP
+2022
+3.10
+60000
+Amna
+Tariq
+22 11 2003
+Iqbal Town, Lahore
+L1F22BSCS0334
+13 09 2022
+OOP
+2022
+3.40
+60000
+Zain
+Mehmood
+05 07 2003
+Faisal Town, Lahore
+L1F22BSCS0225
+14 09 2022
+OOP
+2022
+3.65
+60000
+Fatima
+Sheikh
+18 02 2004
+Johar Town, Lahore
+L1F22BSCS0896
+15 09 2022
+OOP
+2022
+3.55
+60000
+Hamza
+Qureshi
+03 03 2003
+Model Town, Lahore
+L1F22BSCS0345
+16 09 2022
+OOP
+2022
+3.20
+60000
+Nadia
+Rehman
+25 12 2002
+Cavalry Ground, Lahore
+L1F22BSCS0489
+17 09 2022
+OOP
+2022
+3.80
+60000
+Bilal
+Rizvi
+13 10 2003
+Garden Town, Lahore
+L1F22BSCS0657
+18 09 2022
+OOP
+2022
+3.45
+60000
+Maryam
+Zafar
+29 06 2004
+Wapda Town, Lahore
+L1F22BSCS0398
+19 09 2022
+OOP
+2022
+3.70
+60000
+Ahmad
+Nawaz
+09 08 2002
+Walton, Lahore
+L1F22BSCS0765
+20 09 2022
+OOP
+2022
+3.30
+60000
+Sana
+Zaman
+07 09 2004
+Model Town, Lahore
+L1F22BSCS0214
+21 09 2022
+OOP
+2022
+3.25
+60000
+Zara
+Yaseen
+16 11 2003
+DHA, Lahore
+L1F22BSCS0431
+22 09 2022
+OOP
+2022
+3.60
+60000
+Ibrahim
+Farooq
+23 04 2002
+Gulberg, Lahore
+L1F22BSCS0874
+23 09 2022
+OOP
+2022
+3.50
+60000
+Ayesha
+Malik
+11 02 2004
+Faisal Town, Lahore
+L1F22BSCS0666
+24 09 2022
+OOP
+2022
+3.40
+60000
+Tariq
+Hussain
+05 06 2003
+Johar Town, Lahore
+L1F22BSCS0456
+25 09 2022
+OOP
+2022
+3.55
+60000
+Rehan
+Siddiqui
+17 01 2004
+Cavalry Ground, Lahore
+L1F22BSCS0321
+26 09 2022
+OOP
+2022
+3.35
+60000
+Hina
+Aslam
+14 08 2003
+Garden Town, Lahore
+L1F22BSCS0788
+27 09 2022
+OOP
+2022
+3.60
+60000
+Shahid
+Iqbal
+22 03 2002
+Wapda Town, Lahore
+L1F22BSCS0567
+28 09 2022
+OOP
+2022
+3.75
 75000
-2
-Ahamd
+20
+Ahmad
 Shahbar
 15 06 1960
-Johar town, Lahore
-phd. in Computer Science
+Johar Town, Lahore
+PhD in Computer Science
 Dean
-01/05/2005
+01 05 2005
 500000
 101
-Rehan 
-Saleem
-10 04 1970
-TownShip, Lahore
-phd. in Physices
-Lecturer
-01/05/2005
-100000
+Ali
+Ahmed
+25 03 1975
+Gulberg, Lahore
+PhD in Mathematics
+Professor
+01 08 2007
+450000
 102
+Sara
+Khan
+12 12 1980
+DHA, Lahore
+PhD in Data Science
+Associate Professor
+15 09 2010
+400000
+103
+Kamran
+Akhtar
+05 11 1965
+Model Town, Lahore
+PhD in Artificial Intelligence
+Professor
+22 06 2003
+480000
+104
+Farah
+Tariq
+18 07 1982
+Faisal Town, Lahore
+PhD in Software Engineering
+Assistant Professor
+01 10 2012
+350000
+105
+Hassan
+Raza
+30 08 1970
+Wapda Town, Lahore
+PhD in Network Security
+Dean
+01 01 2000
+510000
+106
+Mahnoor
+Malik
+14 02 1985
+Iqbal Town, Lahore
+PhD in Machine Learning
+Professor
+01 05 2013
+460000
+107
+Zain
+Iqbal
+07 09 1978
+Garden Town, Lahore
+PhD in Cybersecurity
+Associate Professor
+10 03 2011
+410000
+108
+Asma
+Siddiqui
+11 04 1969
+Johar Town, Lahore
+PhD in Database Management
+Professor
+20 08 2009
+470000
+109
+Imran
+Saeed
+19 01 1983
+Township, Lahore
+PhD in Robotics
+Assistant Professor
+01 06 2014
+340000
+110
+Faisal
+Ali
+04 10 1976
+Gulberg 2, Lahore
+PhD in Cloud Computing
+Associate Professor
+01 12 2008
+420000
+111
+Rabia
+Qureshi
+16 05 1987
+Model Town, Lahore
+PhD in Software Engineering
+Assistant Professor
+22 09 2015
+360000
+112
+Naveed
+Hussain
+21 03 1962
+Faisal Town, Lahore
+PhD in Artificial Intelligence
+Dean
+01 04 2001
+505000
+113
+Zara
+Imran
+29 11 1981
+DHA Phase 5, Lahore
+PhD in Big Data Analytics
+Professor
+15 11 2012
+450000
+114
+Hamza
+Mustafa
+13 06 1974
+Wapda Town, Lahore
+PhD in Software Architecture
+Associate Professor
+01 07 2009
+425000  
+115
+Maira
+Farooq
+22 08 1986
+Johar Town, Lahore
+PhD in Cloud Computing
+Assistant Professor
+01 10 2016
+370000
+116
+Arslan
+Javed
+08 02 1973
+Gulshan-e-Ravi, Lahore
+PhD in Machine Learning
+Professor
+01 03 2008
+480000
+117
+Saba
+Kamal
+05 12 1979
+DHA Phase 3, Lahore
+PhD in Natural Language Processing
+Associate Professor
+10 07 2013
+415000
+118
+Junaid
+Zafar
+27 09 1967
+Model Town, Lahore
+PhD in Data Science
+Professor
+01 05 2005 
+490000
+119
+Hira
+Saeed
+09 07 1984
+Garden Town, Lahore
+PhD in Software Engineering
+Assistant Professor
+05 08 2014
+355000
+120
 4
 Introduction to Computing
 3
